@@ -7,3 +7,4 @@ To-Read Books ->
 - Solution Architect's Handbook [ ADVANCED ]
 - Fundamentals of Software Architecture ( by Mark Richards and Neol Ford ) [ MID-LEVEL ]
 - Operating System : Three Easy Pieces
+- Headfirst Design Patterns
